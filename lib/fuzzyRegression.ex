@@ -1,0 +1,2 @@
+defmodule FuzzyRegression do
+end
